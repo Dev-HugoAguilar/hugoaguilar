@@ -53,8 +53,8 @@ Científico de datos e ingeniero de IA con más de 7 años de experiencia transf
 
 ---
 
-### Estadísticas de GitHub
+### 📊 Estadísticas de GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-HugoAguilar&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-HugoAguilar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
